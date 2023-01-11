@@ -22,5 +22,8 @@
   "homepage": "https://github.com/ReemMDA99/mern-stack#readme",
   "devDependencies": {
     "concurrently": "^7.6.0"
+  },
+  "dependencies": {
+    "jwt-decode": "^3.1.2"
   }
 }
