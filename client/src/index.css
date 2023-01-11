@@ -1,10 +1,10 @@
 :root {
   --primary: #135011;
   --secondary: #577a48;
-  --tertiary: #b9cba7;
-  --quatrinary:#d7d9d5;
-  --light: #e1f5f4;
-  --dark: #6c7575;
+  --tertiary: #e5ffc7;
+  --quatrinary:#d0f8a8;
+  --light: #3a7b0c;
+  --dark: #79d04b;
   --error: rgb(228, 46, 1);
   --border-radius: 0.3rem;
   --spacing-one: calc(1rem * 0.25);
